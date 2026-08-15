@@ -1,1 +1,1 @@
-worker: python -m telegram_bot.main
+worker: python main_updated.py
